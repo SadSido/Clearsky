@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">ClearSky</string>
+    <string name="app_label">ClearSky</string>
+    <string name="service_label">ClearSky</string>
+    <string name="clearsky_desc">Wallpaper prototype</string>
+
+</resources>
